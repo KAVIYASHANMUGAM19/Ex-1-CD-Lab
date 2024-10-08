@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/aa650eb1-3d15-4e60-b437-c56f15e9e4bf)# Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+# Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
