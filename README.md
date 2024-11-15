@@ -12,7 +12,6 @@
 8.	Stop the program. 
 # PROGRAM
 
-`*/
 #include<stdio.h>
 
 #include<ctype.h>
